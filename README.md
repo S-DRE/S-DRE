@@ -1,4 +1,6 @@
-### Hi there 👋. I'm Andrés, a software and web developer from Lugo, Spain.
+## Hello! Welcome to my Github 👋.
+## I'm Andrés, a software and web developer from Lugo, Spain.  
+
 I am currently working as a Python Developer at [Gompute](https://www.gompute.com)
 
 I like to create code and audiovisual stuff in general so I'll be posting contributions around here
