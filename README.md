@@ -1,5 +1,5 @@
 ### Hi there 👋. I'm Andrés, a software and web developer from Lugo, Spain.
-I am currently working at www.gompute.com
+I am currently working at [Gompute] www.gompute.com
 
 I like to create code and audiovisual stuff in general so I'll be posting contributions around here
 from time to time. My main focus is Java, Python, JavaScript and specially with the Vue framework.
