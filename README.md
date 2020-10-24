@@ -6,7 +6,7 @@
 I am currently working as a Python Developer at [Gompute](https://www.gompute.com)
 
 I like to create code and audiovisual stuff in general so I'll be posting contributions around here
-from time to time. My main focus is Java, Python and JavaScript, specially with the Vue framework.
+from time to time. <strong>My main focus is Java, Python and JavaScript, specially with the Vue framework.</strong>
 
 I also like music, I've made a little bit myself, and also audiovisual projects with programs like
 Photoshop, After Effects, Lightroom, Sony Vegas etc.
