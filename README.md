@@ -1,7 +1,7 @@
-<h2 style="align: center;"> 
+<h2><center>
   Hello! Welcome to my Github 👋. 
   I'm Andrés, a software and web developer from Lugo, Spain. 
-</h2>
+</center></h2>
 
 I am currently working as a Python Developer at [Gompute](https://www.gompute.com)
 
