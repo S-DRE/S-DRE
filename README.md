@@ -1,7 +1,11 @@
 ### Hi there 👋. I'm Andrés, a software and web developer from Lugo, Spain.
 
 I like to create code and audiovisual stuff in general so I'll be posting contributions around here
-from time to time. I always like to learn new things from people so don't doubt in contact me for any
+from time to time. My main focus is Java, Python, JavaScript and specially with the Vue framework.
+I also like music, I've made a little bit myself, and also audiovisual projects with programs like
+Photoshop, After Effects, Lightroom, Sony Vegas etc.
+In the 3D side I've also worked with Blender while at Gompute.
+I always like to learn new things from people so don't doubt in contact me for any
 projects!
 
 A couple of things about me: 
