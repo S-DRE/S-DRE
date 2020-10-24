@@ -15,7 +15,7 @@ I always like to learn new things from people so don't doubt in contact me for a
 projects!
 
 A couple of things about me: 
-- 🔭 I’m currently working on Gompute, an HPC swedish company
+- 🔭 I’m currently working at Gompute, an HPC swedish company
 - 🌱 I’m currently learning Docker and want to learn the Java Spring framework
 - 👯 I’m looking to collaborate on projects, specially related to music and automotive things. Code is for everything!
 - 💬 Ask me about any doubt you can have, I may have the answer or learn myself so it's always a good experience!
