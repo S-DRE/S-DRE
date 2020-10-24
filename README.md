@@ -5,6 +5,9 @@
 
 I am currently working as a Python Developer at [Gompute](https://www.gompute.com)
 
+Here are my social medias:
+[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+
 I like to create code and audiovisual stuff in general so I'll be posting contributions around here
 from time to time. My main focus is Java, Python, JavaScript and specially with the Vue framework.
 I also like music, I've made a little bit myself, and also audiovisual projects with programs like
