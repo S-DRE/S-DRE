@@ -22,7 +22,6 @@ A couple of things about me:
 - ⚡ Fun fact: I'm from Spain, but not the sunny one you can imagine!
 
 Here you can follow my activity:
-<script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <a class="github-button" href="https://github.com/S-DRE" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @S-DRE on GitHub">Follow @S-DRE</a>
 
