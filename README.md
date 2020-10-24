@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"> 
+<h2 style="align: center;"> 
   Hello! Welcome to my Github 👋. 
   I'm Andrés, a software and web developer from Lugo, Spain. 
 </h2>
