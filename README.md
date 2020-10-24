@@ -22,7 +22,7 @@ A couple of things about me:
 - ⚡ Fun fact: I'm from Spain, but not the sunny one you can imagine!
 
 Here you can follow my activity:
-[![Follow]()]("https://github.com/S-DRE")
+[![Watch on GitHub](https://img.shields.io/github/followers/S-DRE?style=social)](https://github.com/S-DRE/followers/)
 <!--
 **S-DRE/S-DRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
