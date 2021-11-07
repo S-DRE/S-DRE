@@ -18,7 +18,6 @@ A couple of things about me:
 - 👯 I’m looking to collaborate on projects, specially related to music and automotive things. Code is for everything!
 - 💬 Ask me about any doubt you can have, I may have the answer or learn myself so it's always a good experience!
 - 📫 How to reach me: sdreworks@gmail.com
-- ⚡ Fun fact: I'm from Spain, but not the sunny one you can imagine!
 <!--
 **S-DRE/S-DRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
