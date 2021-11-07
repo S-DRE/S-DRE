@@ -3,8 +3,6 @@
   I'm Andrés, a software and web developer from Lugo, Spain. 
 </center></h2>
 
-I am currently actively searching for a job, so feel free to contact me!
-
 I like to create code and audiovisual stuff in general so I'll be posting contributions around here
 from time to time. <strong>My main focus is Java, Python and JavaScript, specially with the Vue framework.</strong>
 
