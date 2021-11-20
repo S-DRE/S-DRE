@@ -16,7 +16,7 @@ A couple of things about me:
 - 🔭 Right now I am working at [Conpas.net](https://www.conpas.net), a Premium Zoho partner.
 - 🌱 I’m currently learning Django!
 - 👯 I’m looking to collaborate on projects, specially related to music and automotive things. Code is for everything!
-- 💬 Ask me about any doubt you can have, I may have the answer or learn myself so it's always a good experience.
+- 💬 Ask me about any doubt you may have, I may have the answer or learn myself so it's always a good experience.
 - 📫 How to reach me: sdreworks@gmail.com
 <!--
 **S-DRE/S-DRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
