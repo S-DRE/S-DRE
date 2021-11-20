@@ -1,5 +1,5 @@
 <h2><center>
-  Hello! Welcome to my Github 👋. 
+  Hello! Welcome to my Github. 
   I'm Andrés, a software and web developer from Lugo, Spain. 
 </center></h2>
 
