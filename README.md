@@ -8,7 +8,7 @@ from time to time. <strong>My main focus is Java, Python and JavaScript, special
 
 I also like music, I've made a little bit myself, and also audiovisual projects with programs like
 Photoshop, After Effects, Lightroom, Sony Vegas etc.
-In the 3D side I've also worked with Blender while at Gompute.
+In the 3D side I've also worked with Blender while at Gompute, an HPC swedish company.
 I always like to learn new things from people so don't doubt to contact me for any
 projects!
 
