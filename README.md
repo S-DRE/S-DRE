@@ -13,8 +13,8 @@ I always like to learn new things from people so don't doubt to contact me for a
 projects!
 
 A couple of things about me: 
-- 🔭 Right now I am working at [Conpas.net](https://www.conpas.net), a Premium Zoho partner.
-- 🌱 I’m currently learning Symfony!
+- 🔭 Right now I am working at [Codurance](https://www.codurance.com/), a TDD driven company.
+- 🌱 I’m currently learning TDD!
 - 👯 I’m looking to collaborate on projects, specially related to music and automotive things. Code is for everything!
 - 💬 Ask me about any doubt you may have, I might have the answer or learn myself so it's always a good experience.
 - 📫 How to reach me: sdreworks@gmail.com
