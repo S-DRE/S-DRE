@@ -4,7 +4,7 @@
 </center></h2>
 
 I like to create code and audiovisual stuff in general so I'll be posting contributions around here
-from time to time. <strong>My main focus is Java, PHP, Python and JavaScript, specially with the Vue framework.</strong>
+from time to time. <strong>My known languages are Java, PHP, Python and JavaScript, specially with the Vue framework.</strong> But my main focus is to deliver value and strive for excellence when developing software, using best practices and sharing knowledge with others.
 
 I also like music, I've made a little bit myself, and also audiovisual projects with programs like
 Photoshop, After Effects, Lightroom, Sony Vegas etc.
