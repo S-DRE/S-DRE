@@ -14,7 +14,7 @@ projects!
 
 A couple of things about me: 
 - 🔭 Right now I am working at [Codurance](https://www.codurance.com/), a TDD driven company.
-- 🌱 I’m currently learning TDD!
+- 🌱 I’m currently learning new architecture decissions, best practices and more!
 - 👯 I’m looking to collaborate on projects, specially related to music and automotive things. Code is for everything!
 - 💬 Ask me about any doubt you may have, I might have the answer or learn myself so it's always a good experience.
 - 📫 How to reach me: sdreworks@gmail.com
